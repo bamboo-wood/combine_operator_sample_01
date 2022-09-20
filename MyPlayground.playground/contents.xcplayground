@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' executeOnSourceChanges='true' importAppTypes='true'>
+    <pages>
+        <page name='list-1'/>
+        <page name='list-2'/>
+        <page name='list-3'/>
+        <page name='list-4'/>
+        <page name='list-5'/>
+    </pages>
+</playground>
